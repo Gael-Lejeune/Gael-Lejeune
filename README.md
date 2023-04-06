@@ -3,7 +3,7 @@
   - Cybersecurity
   - Human sciences research and analysis
   - Ai Generated Art in general
-- 🌱 I’m currently learning cybersecurity governance at @Capgemini in internship
+- 🌱 I’m currently learning cybersecurity governance at [@Capgemini](https://github.com/Capgemini) in internship
 - 💞️ I’m looking to collaborate on a lot of things, but I'm currently not available enough to do so :smiling_face_with_tear:
 - 📫 How to reach me :
   - LinkedIn : [Gaël Lejeune](https://www.linkedin.com/in/gael-lejeune/)
