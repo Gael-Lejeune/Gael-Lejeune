@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gael-Lejeune (I also go by the pseudonym "Kmaeleon")
+- 👋 Hi, I’m [@Gael-Lejeune](https://github.com/Gael-Lejeune) (I also go by the pseudonym "Kmaeleon")
 - 👀 I’m interested in a lot of thing currently :
   - Cybersecurity
   - Human sciences research and analysis
